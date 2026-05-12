@@ -1,5 +1,11 @@
 # A Web Site About Me
 
+Hello world
+
+Hello world
+
+Hello world
+
 Welcome! In this assignment, you will create a personal web site consisting of three distinct web pages:
 
 - Your personal web site's home page: `index.html`
